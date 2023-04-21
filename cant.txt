@@ -1,0 +1,21 @@
+1 fire−private.cs.bath.ac.uk (172.16.0.1) 0.237 ms 0.233 ms 0.230 ms
+2 gw−palo.cs.bath.ac.uk (138.38.108.254) 0.783 ms 0.769 ms 0.874 ms
+3 bath−gw−1−palo.bath.ac.uk (193.63.64.174) 2.193 ms 1.999 ms 2.186 ms
+4 xe−1−2−0.bathub−rbr1.ja.net (146.97.144.33) 31.273 ms 31.243 ms 31.249 ms
+5 xe−1−2−0.briswe−rbr1.ja.net (146.97.67.65) 2.404 ms 2.405 ms 2.401 ms
+6 ae22.londpg−sbr2.ja.net (146.97.37.201) 4.751 ms 4.337 ms 4.303 ms
+7 ae29.londhx−sbr1.ja.net (146.97.33.1) 4.847 ms 4.840 ms 4.743 ms
+8 janet.mx1.lon.uk.geant.net (62.40.124.197) 4.809 ms 4.784 ms 4.615 ms
+9 internet2−gw.mx1.lon.uk.geant.net (62.40.124.45) 79.345 ms 79.340 ms 79.329 ms
+10 et−7−3−0.4072.rtsw.atla.net.internet2.edu (198.71.45.6) 92.208 ms 92.199 ms 92.199 ms
+11 et−10−2−0.105.rtr.hous.net.internet2.edu (198.71.45.13) 115.956 ms 115.891 ms 115.870 ms
+12 et−7−1−0.4070.rtsw.losa.net.internet2.edu (198.71.45.21) 148.285 ms 148.255 ms 148.242 ms
+13 aarnet−1−lo−jmb−702.lsanca.pacificwave.net (207.231.240.149) 148.304 ms 148.471 ms 148.357 ms
+14 et−1−2−1.pe1.a.koa.aarnet.net.au (113.197.15.86) 194.506 ms 194.593 ms 194.549 ms
+15 et−1−0−0.pe1.tkpa.akl.aarnet.net.au (113.197.15.84) 306.984 ms 307.012 ms 306.968 ms
+16 et−1−0−0−202.and12−nsh.reannz.co.nz (182.255.119.201) 306.903 ms 306.908 ms 307.083 ms
+17 210.7.37.209 (210.7.37.209) 320.929 ms 322.546 ms 322.501 ms
+18 210.7.37.210 (210.7.37.210) 321.274 ms 321.259 ms 321.211 ms
+19 202.36.179.100 (202.36.179.100) 321.670 ms 321.942 ms 322.158 ms
+20 132.181.3.236 (132.181.3.236) 324.378 ms * 323.115 ms
+21 132.181.106.1 (132.181.106.1) 322.276 ms 322.437 ms 322.276 ms

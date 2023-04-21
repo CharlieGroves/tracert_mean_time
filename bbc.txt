@@ -1,0 +1,14 @@
+1 fire−private.cs.bath.ac.uk (172.16.0.1) 0.141 ms 0.129 ms 0.161 ms
+2 gw−palo.cs.bath.ac.uk (138.38.108.254) 0.684 ms 0.667 ms 0.666 ms
+3 bath−gw−1−palo.bath.ac.uk (193.63.64.174) 1.188 ms 1.373 ms 1.262 ms
+4 xe−1−2−0.bathub−rbr1.ja.net (146.97.144.33) 0.903 ms 0.903 ms 0.892 ms
+5 xe−1−2−0.briswe−rbr1.ja.net (146.97.67.65) 1.964 ms 1.950 ms 1.940 ms
+6 ae22.londpg−sbr2.ja.net (146.97.37.201) 4.447 ms 4.227 ms 4.248 ms
+7 ae30.londtw−sbr2.ja.net (146.97.33.6) 4.705 ms 4.696 ms 4.624 ms
+8 ae29.londtn−sbr1.ja.net (146.97.33.10) 4.741 ms 4.783 ms 4.758 ms
+9 ae0.londtn−ban1.ja.net (146.97.35.210) 4.653 ms 4.656 ms 4.699 ms
+10 bbc.lond−ban4.ja.net (193.62.157.178) 4.749 ms 4.783 ms 4.809 ms
+11 * * *
+12 ae0.er01.cwwtf.bbc.co.uk (132.185.254.93) 6.120 ms ae0.er02.cwwtf.bbc.co.uk (132.185.254.90) 6.024 ms 6.049 ms
+13 132.185.255.165 (132.185.255.165) 12.762 ms 12.745 ms 11.640 ms
+14 bbc−vip045.cwwtf.bbc.co.uk (212.58.246.54) 5.548 ms 5.585 ms 5.657 ms

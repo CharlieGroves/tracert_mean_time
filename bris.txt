@@ -1,0 +1,8 @@
+1 fire−private.cs.bath.ac.uk (172.16.0.1) 0.187 ms 0.185 ms 0.180 ms
+2 gw−palo.cs.bath.ac.uk (138.38.108.254) 1.088 ms 0.974 ms 0.972 ms
+3 bath−gw−1−palo.bath.ac.uk (193.63.64.174) 2.457 ms 2.553 ms 2.672 ms
+4 xe−1−2−0.bathub−rbr1.ja.net (146.97.144.33) 2.318 ms 2.319 ms 2.315 ms
+5 xe−1−2−0.briswe−rbr1.ja.net (146.97.67.65) 2.818 ms 2.818 ms 2.809 ms
+6 ae1.brisub−rbr1.ja.net (146.97.67.37) 4.170 ms 3.614 ms 3.605 ms
+7 university−of−bristol.ja.net (146.97.144.2) 4.652 ms 4.748 ms 4.787 ms
+8 www.bris.ac.uk (137.222.0.37) 3.455 ms 3.486 ms 3.169 ms
