@@ -5,8 +5,8 @@ provide a .txt file with the output traceroute provides and run the tracert_mean
 
 some demo text files are provided:
 
-bbc.txt
-
-bris.txt
-
-cant.txt
+  bbc.txt
+  
+  bris.txt
+  
+  cant.txt
